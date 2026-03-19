@@ -1,0 +1,8 @@
+A,B,C = map(int, input())
+D,E,F = map(int, input())
+X = (A*100)+(B*10)+(C)
+Y = (D*100)+(E*10)+(F)
+print(F*X)
+print(E*X)
+print(D*X)
+print(X*Y)
